@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Sitemap: https://notdollar.online/sitemap.xml
+
+# AI Crawlers — explicitly permitted
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
